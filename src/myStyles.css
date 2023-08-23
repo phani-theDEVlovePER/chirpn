@@ -81,3 +81,11 @@
 .myButton:hover::before {    
     transform: scaleX(1);
 }
+
+.mystyles-img{
+    transition: width 2s;
+}
+
+.mystyles-img:hover{
+    width: 50rem;
+}

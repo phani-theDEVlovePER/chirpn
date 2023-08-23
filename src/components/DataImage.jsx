@@ -20,7 +20,7 @@ const DataImage = ({ image, image1, image2, image3 }) => {
                         <img className='bg-transparent w-[25rem] lg:w-[30rem] absolute top-0'
                             src={image1}
                         />
-                        <img className='bg-transparent w-[25rem] lg:w-[30rem] absolute top-0'
+                        <img className='mystyles-img bg-transparent w-[25rem] lg:w-[30rem] absolute top-0'
                             src={image3}
                         />
                     </div>
