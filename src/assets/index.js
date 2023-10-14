@@ -4,7 +4,7 @@ import blueDepthBg from './blue-depth-bg.png'
 import darkBlueCircle from './dark-blue-circle.png'
 import lightBlueCircle from './light-blue-circle.png'
 import lightBlueCircle1 from './light-blue-circle-1.png'
-import superHero from './superHero.png'
+import superHero from './superhero.png' 
 import bg from './bg.jpg'
 import combo from './combobg.png'
 
